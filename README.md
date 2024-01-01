@@ -1,7 +1,6 @@
-An IceRiver KS0 Minotoring tool
+An IceRiver KS0 Monitoring tool
 <img src="k1.jpg">
 
-Please unzip# IceRiverKS0Monitor
 IceRiver KS0 Monitor Script to monitor several miners
 
 You need to unzip ks0-monitor.zip and ks0-monitor.z01
